@@ -1,0 +1,13 @@
+  .skyblue-navbar {
+    background-color: #87ceeb;
+  }
+  
+  .skyblue-navbar .navbar-brand, 
+  .skyblue-navbar .nav-link {
+    color: white !important;
+    font-weight: bold;
+  }
+  
+  .skyblue-navbar .nav-link:hover {
+    color: #f0f8ff !important;
+  }
